@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RightTriangle",
+            "request": "launch",
+            "mainClass": "RightTriangle",
+            "projectName": "JavaProgram_bd12c71"
+        },
+        {
+            "type": "java",
+            "name": "PandemicSpread",
+            "request": "launch",
+            "mainClass": "PandemicSpread",
+            "projectName": "JavaProgram_bd12c71"
+        },
+        {
+            "type": "java",
+            "name": "BlackJack",
+            "request": "launch",
+            "mainClass": "BlackJack",
+            "projectName": "JavaProgram_bd12c71"
+        },
+        {
+            "type": "java",
             "name": "Harmonic_number",
             "request": "launch",
             "mainClass": "Harmonic_number",
