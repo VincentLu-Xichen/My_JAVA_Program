@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Harmonic_number",
+            "request": "launch",
+            "mainClass": "Harmonic_number",
+            "projectName": "JavaProgram_bd12c71"
+        },
+        {
+            "type": "java",
             "name": "armstrong",
             "request": "launch",
             "mainClass": "armstrong",
