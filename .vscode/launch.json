@@ -1,0 +1,119 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "armstrong",
+            "request": "launch",
+            "mainClass": "armstrong",
+            "projectName": "JavaProgram_bd12c71"
+        },
+        {
+            "type": "java",
+            "name": "hailstone",
+            "request": "launch",
+            "mainClass": "hailstone",
+            "projectName": "JavaProgram_bd12c71"
+        },
+        {
+            "type": "java",
+            "name": "ifelse",
+            "request": "launch",
+            "mainClass": "ifelse",
+            "projectName": "JavaProgram_bd12c71"
+        },
+        {
+            "type": "java",
+            "name": "Example1",
+            "request": "launch",
+            "mainClass": "Example1",
+            "projectName": "JavaProgram_bd12c71"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "JavaProgram_bd12c71"
+        },
+        {
+            "type": "java",
+            "name": "YIQ",
+            "request": "launch",
+            "mainClass": "YIQ",
+            "projectName": "JavaProgram_bd12c71"
+        },
+        {
+            "type": "java",
+            "name": "pentagon",
+            "request": "launch",
+            "mainClass": "pentagon",
+            "projectName": "JavaProgram_bd12c71"
+        },
+        {
+            "type": "java",
+            "name": "greatcircle",
+            "request": "launch",
+            "mainClass": "greatcircle",
+            "projectName": "JavaProgram_bd12c71"
+        },
+        {
+            "type": "java",
+            "name": "challenge",
+            "request": "launch",
+            "mainClass": "challenge",
+            "projectName": "JavaProgram_bd12c71"
+        },
+        {
+            "type": "java",
+            "name": "日期",
+            "request": "launch",
+            "mainClass": "日期",
+            "projectName": "JavaProgram_bd12c71"
+        },
+        {
+            "type": "java",
+            "name": "polarcoordinates",
+            "request": "launch",
+            "mainClass": "polarcoordinates",
+            "projectName": "JavaProgram_bd12c71"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "DateToDay",
+            "request": "launch",
+            "mainClass": "DateToDay",
+            "projectName": "java_c4561a73"
+        },
+        {
+            "type": "java",
+            "name": "DateToDayFixed",
+            "request": "launch",
+            "mainClass": "DateToDayFixed",
+            "projectName": "java_c4561a73"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "java_c4561a73"
+        },
+        {
+            "type": "java",
+            "name": "日期",
+            "request": "launch",
+            "mainClass": "日期",
+            "projectName": "java_c4561a73"
+        }
+    ]
+}
