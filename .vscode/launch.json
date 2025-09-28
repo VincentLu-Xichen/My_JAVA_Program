@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "pn",
+            "request": "launch",
+            "mainClass": "pn",
+            "projectName": "JavaProgram_bd12c71"
+        },
+        {
+            "type": "java",
             "name": "RightTriangle",
             "request": "launch",
             "mainClass": "RightTriangle",
