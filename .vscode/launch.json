@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "getFrequency",
+            "request": "launch",
+            "mainClass": "getFrequency",
+            "projectName": "JavaProgram_bd12c71"
+        },
+        {
+            "type": "java",
+            "name": "MaxProduct",
+            "request": "launch",
+            "mainClass": "MaxProduct",
+            "projectName": "JavaProgram_bd12c71"
+        },
+        {
+            "type": "java",
+            "name": "maxProduct",
+            "request": "launch",
+            "mainClass": "maxProduct",
+            "projectName": "JavaProgram_bd12c71"
+        },
+        {
+            "type": "java",
+            "name": "sum",
+            "request": "launch",
+            "mainClass": "sum",
+            "projectName": "JavaProgram_bd12c71"
+        },
+        {
+            "type": "java",
+            "name": "dice",
+            "request": "launch",
+            "mainClass": "dice",
+            "projectName": "JavaProgram_bd12c71"
+        },
+        {
+            "type": "java",
+            "name": "SumOfPropers",
+            "request": "launch",
+            "mainClass": "SumOfPropers",
+            "projectName": "JavaProgram_bd12c71"
+        },
+        {
+            "type": "java",
             "name": "pn",
             "request": "launch",
             "mainClass": "pn",
