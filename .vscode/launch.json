@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "removeLeftmost",
+            "request": "launch",
+            "mainClass": "removeLeftmost",
+            "projectName": "JavaProgram_bd12c71"
+        },
+        {
+            "type": "java",
             "name": "getFrequency",
             "request": "launch",
             "mainClass": "getFrequency",
