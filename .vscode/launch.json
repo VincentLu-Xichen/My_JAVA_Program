@@ -6,6 +6,83 @@
     "configurations": [
         {
             "type": "java",
+            "name": "testCircle",
+            "request": "launch",
+            "mainClass": "testCircle",
+            "projectName": "JavaProgram_bd12c71"
+        },
+        {
+            "type": "java",
+            "name": "numreverse",
+            "request": "launch",
+            "mainClass": "numreverse",
+            "projectName": "JavaProgram_bd12c71"
+        },
+        {
+            "type": "java",
+            "name": "PersonTest",
+            "request": "launch",
+            "mainClass": "PersonTest",
+            "projectName": "JavaProgram_bd12c71"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "JavaProgram_bd12c71"
+        },
+        {
+            "type": "java",
+            "name": "Temperature",
+            "request": "launch",
+            "mainClass": "Temperature",
+            "projectName": "JavaProgram_bd12c71"
+        },
+        {
+            "type": "java",
+            "name": "orderexchange",
+            "request": "launch",
+            "mainClass": "orderexchange",
+            "projectName": "JavaProgram_bd12c71"
+        },
+        {
+            "type": "java",
+            "name": "diamondshape",
+            "request": "launch",
+            "mainClass": "diamondshape",
+            "projectName": "JavaProgram_bd12c71"
+        },
+        {
+            "type": "java",
+            "name": "BudgetCalculation",
+            "request": "launch",
+            "mainClass": "BudgetCalculation",
+            "projectName": "JavaProgram_bd12c71"
+        },
+        {
+            "type": "java",
+            "name": "bread",
+            "request": "launch",
+            "mainClass": "bread",
+            "projectName": "JavaProgram_bd12c71"
+        },
+        {
+            "type": "java",
+            "name": "check",
+            "request": "launch",
+            "mainClass": "check",
+            "projectName": "JavaProgram_bd12c71"
+        },
+        {
+            "type": "java",
+            "name": "WarAndPeace",
+            "request": "launch",
+            "mainClass": "WarAndPeace",
+            "projectName": "JavaProgram_bd12c71"
+        },
+        {
+            "type": "java",
             "name": "removeLeftmost",
             "request": "launch",
             "mainClass": "removeLeftmost",

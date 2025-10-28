@@ -2,7 +2,7 @@ public class removeLeftmost {
     public static void main(String[] args) {
         String input = "wcnmb";
         String substring = "cnm";
-        String result = removeLeftmostSubstring(input, substring);
+        String result = removeLeftmost.removeLeftmostSubstring(input, substring);
         System.out.println(result); 
     }
 
