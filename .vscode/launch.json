@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "two",
+            "request": "launch",
+            "mainClass": "two",
+            "projectName": "JavaProgram_bd12c71"
+        },
+        {
+            "type": "java",
             "name": "testCircle",
             "request": "launch",
             "mainClass": "testCircle",

@@ -34,7 +34,7 @@ public class CircleTestSuite {
         }
     }
 
-    private static void assertTrue(boolean condition, String name) {
+    /*private static void assertTrue(boolean condition, String name) {
         total++;
         if (condition) {
             passed++;
@@ -43,7 +43,7 @@ public class CircleTestSuite {
             failed++;
             System.out.println("FAIL: " + name);
         }
-    }
+    }*/
 
     public static void main(String[] args) {
         // Default constructor
