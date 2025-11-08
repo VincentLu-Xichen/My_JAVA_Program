@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BoundedCounter",
+            "request": "launch",
+            "mainClass": "BoundedCounter",
+            "projectName": "JavaProgram_bd12c71"
+        },
+        {
+            "type": "java",
+            "name": "HalloweenClock",
+            "request": "launch",
+            "mainClass": "HalloweenClock",
+            "projectName": "JavaProgram_bd12c71"
+        },
+        {
+            "type": "java",
+            "name": "CuckooClock",
+            "request": "launch",
+            "mainClass": "CuckooClock",
+            "projectName": "JavaProgram_bd12c71"
+        },
+        {
+            "type": "java",
             "name": "two",
             "request": "launch",
             "mainClass": "two",

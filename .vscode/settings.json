@@ -1,3 +1,16 @@
 {
-    "java.debug.settings.onBuildFailureProceed": true
+    "java.debug.settings.onBuildFailureProceed": true,
+    // 编辑器字体设为 Maple Mono NF CN（含后备字体）
+    "editor.fontFamily": "Maple Mono NF CN, Maple Mono NF, Menlo, Monaco, 'Courier New', monospace",
+    // 开启变量字体支持，以便使用斜体轴（如果字体提供）
+    "editor.fontVariations": true,
+    // 将代码整体以斜体显示（通过 TextMate 规则）
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "scope": "source",
+                "settings": { "fontStyle": "italic" }
+            }
+        ]
+    }
 }
