@@ -1,4 +1,4 @@
-public class getFrequency {
+public class FrequencyCounter {
     public static void main(String[] args) {
         int num = 1;
         int[] input = {1,2,1,5,6,2,10,4578,3,1,3,6,5,1,4};

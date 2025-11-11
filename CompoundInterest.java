@@ -1,5 +1,5 @@
 
-public class interestcomp {
+public class CompoundInterest {
     public static double compintre(double principle, double rate, double year) {
         double total = principle;
         if (rate < 1) {

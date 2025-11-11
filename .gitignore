@@ -1,0 +1,12 @@
+# Java build outputs
+*.class
+*.jar
+*.war
+*.ear
+
+# OS / editor
+.DS_Store
+*.log
+
+# Optional: keep IDE settings for this repo; do not ignore .vscode
+# .vscode/

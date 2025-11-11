@@ -1,4 +1,4 @@
-public class testCircle {
+public class CircleDemo {
     public static void main(String[] args) {
         //Example 1
         Circle c1 = new Circle();

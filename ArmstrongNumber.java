@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class armstrong {
+public class ArmstrongNumber {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int a = Integer.parseInt(scanner.nextLine());

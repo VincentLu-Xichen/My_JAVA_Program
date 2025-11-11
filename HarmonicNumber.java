@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Harmonic_number {
+public class HarmonicNumber {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int k = Integer.parseInt(scanner.nextLine());

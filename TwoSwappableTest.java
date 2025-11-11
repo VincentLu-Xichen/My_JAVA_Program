@@ -1,6 +1,6 @@
 public class TwoSwappableTest {
     private static void run(String s1, String s2, boolean expected) {
-        boolean got = two.twoSwappable(s1, s2);
+        boolean got = TwoSwappable.twoSwappable(s1, s2);
         String status = (got == expected) ? "PASS" : "FAIL";
         System.out.println(status + " | s1=\"" + s1 + "\" s2=\"" + s2 + "\" => expected=" + expected + ", got=" + got);
     }

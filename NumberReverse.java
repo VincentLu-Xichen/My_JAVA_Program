@@ -1,4 +1,4 @@
-public class numreverse {
+public class NumberReverse {
     public static String revNum(String input) {
         // 先将字符串转换为字符数组，方便操作
         char[] chars = new char[input.length()];
